@@ -1,2 +1,2 @@
-# GCSO-2.0
-jibibuwborinonii
+# p5.play-boilerplate
+Boiler plate for p5.play
